@@ -1,0 +1,5 @@
+display7SEG.c:14:6:Led_Status	16	static
+display7SEG.c:24:6:display7SEG	336	static
+display7SEG.c:84:6:update7SEG	16	static
+display7SEG.c:123:6:updateSEGBuffer	24	static
+display7SEG.c:130:6:reset7SEG	24	static

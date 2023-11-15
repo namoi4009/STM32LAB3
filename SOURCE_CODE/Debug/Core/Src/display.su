@@ -1,0 +1,4 @@
+display.c:9:6:toggleLED	8	static
+display.c:15:6:trafficDisplay1	16	static
+display.c:39:6:trafficDisplay2	16	static
+display.c:63:6:trafficToggle	16	static
